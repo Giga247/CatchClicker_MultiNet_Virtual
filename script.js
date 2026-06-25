@@ -137,12 +137,12 @@ const netLabels = [
 ];
 
 const netIdentifierGroups = [
-  { x: 388, y: 582 },
-  { x: 505, y: 582 },
-  { x: 622, y: 582 },
-  { x: 388, y: 675 },
-  { x: 505, y: 675 },
-  { x: 622, y: 675 },
+  { x: 410, y: 582 },
+  { x: 527, y: 582 },
+  { x: 644, y: 582 },
+  { x: 410, y: 675 },
+  { x: 527, y: 675 },
+  { x: 644, y: 675 },
 ];
 
 const netIdentifierPaths = [
