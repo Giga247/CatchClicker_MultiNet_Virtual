@@ -128,12 +128,12 @@ const battery = {
 };
 
 const netLabels = [
-  { text: "NET 1", x: 408, y: 581, w: 43, h: 24 },
-  { text: "NET 2", x: 524, y: 582, w: 46, h: 24 },
-  { text: "NET 3", x: 641, y: 582, w: 46, h: 24 },
-  { text: "NET 4", x: 407, y: 675, w: 46, h: 24 },
-  { text: "NET 5", x: 524, y: 675, w: 46, h: 24 },
-  { text: "NET 6", x: 641, y: 675, w: 46, h: 24 },
+  { text: "NET 1", x: 430, y: 581, w: 43, h: 24 },
+  { text: "NET 2", x: 546, y: 582, w: 46, h: 24 },
+  { text: "NET 3", x: 663, y: 582, w: 46, h: 24 },
+  { text: "NET 4", x: 429, y: 675, w: 46, h: 24 },
+  { text: "NET 5", x: 546, y: 675, w: 46, h: 24 },
+  { text: "NET 6", x: 663, y: 675, w: 46, h: 24 },
 ];
 
 const netIdentifierGroups = [
