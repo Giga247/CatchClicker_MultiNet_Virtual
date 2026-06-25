@@ -128,21 +128,21 @@ const battery = {
 };
 
 const netLabels = [
-  { text: "NET 1", x: 408, y: 581, w: 43, h: 24 },
-  { text: "NET 2", x: 524, y: 582, w: 46, h: 24 },
-  { text: "NET 3", x: 641, y: 582, w: 46, h: 24 },
-  { text: "NET 4", x: 407, y: 675, w: 46, h: 24 },
-  { text: "NET 5", x: 524, y: 675, w: 46, h: 24 },
-  { text: "NET 6", x: 641, y: 675, w: 46, h: 24 },
+  { text: "NET 1", x: 410, y: 582, w: 43, h: 24 },
+  { text: "NET 2", x: 527, y: 582, w: 46, h: 24 },
+  { text: "NET 3", x: 644, y: 582, w: 46, h: 24 },
+  { text: "NET 4", x: 410, y: 675, w: 46, h: 24 },
+  { text: "NET 5", x: 527, y: 675, w: 46, h: 24 },
+  { text: "NET 6", x: 644, y: 675, w: 46, h: 24 },
 ];
 
 const netIdentifierGroups = [
-  { x: 388, y: 582 },
-  { x: 505, y: 582 },
-  { x: 622, y: 582 },
-  { x: 388, y: 675 },
-  { x: 505, y: 675 },
-  { x: 622, y: 675 },
+  { x: 410, y: 582 },
+  { x: 527, y: 582 },
+  { x: 644, y: 582 },
+  { x: 410, y: 675 },
+  { x: 527, y: 675 },
+  { x: 644, y: 675 },
 ];
 
 const netIdentifierPaths = [
